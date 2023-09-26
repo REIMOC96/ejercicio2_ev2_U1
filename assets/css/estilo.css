@@ -1,0 +1,12 @@
+ul{
+    padding-left: 2rem;
+    list-style: none;
+
+}
+ li{
+    padding-left: 2rem;
+    background-image:url(../img/images.jfif);
+    background-color: 0 0;
+    background-size: 1.6rem;
+    background-repeat: no-repeat;
+}
